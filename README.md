@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Akshay Jayasoorya</h1>
-<h3 align="center">And I'm currently pursuing my MS in Computer Science at Arizona State University. I have also previously worked at Cognizant Technology Solutions as an Azure Data Engineer.</h3>
+<h3 align="center">I recently graduated with MS in Computer Science at Arizona State University and working as a Software Engineer at Merwel Inc. I have also previously worked at Cognizant Technology Solutions as an Azure Data Engineer.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 - 📫 How to reach me **ajsoorya@gmail.com**
